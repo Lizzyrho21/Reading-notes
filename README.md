@@ -1,7 +1,9 @@
-# Growth Mindset 
+# Personal Introduction
 Heya! I'm Lizzy Rhodes Wiley. Thanks for taking a peek at my notes! 😄
 
 Here is my [Profile page](https://github.com/Lizzyrho21) if you wanna tune into my next big project! 
+
+# Growth Mindset
 
 ## What is it?
  The growth mindset is a concept of continuous improvement in an area of study. It is the belief that by perseverance and consistent positive learning methods you can improve in any skill. 

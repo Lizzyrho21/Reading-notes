@@ -17,4 +17,4 @@ Creating Links are super easy! just use this format :
 
 '[Sampletext]'(url)' 
 
-just add any text that will show up as a link, and copy and paste the link url in the 'url' parenthesis! 
+just add any text that will show up as a link, and copy and paste the link url in the 'url' parenthesis! 😃

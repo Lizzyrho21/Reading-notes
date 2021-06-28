@@ -22,4 +22,4 @@ I thought I would never be smart enough to solve any problem. I was jealous of m
 
 3.Ask for help
 
-- Research it, call a peer, message the discord group. Don't be intimidated to how much more they know, but be happy because at least someone has an answer to this unruly problem. Ask them how they got there and write down what you need to know for next time. Rememebr there will ALWAYS be a next time, a next problem, and a next idea. You are not just doing this for you. There is a whole generation behind you that need the solution to the problem you are asking. **ASK** until you're blue in the face.
+- Research it, call a peer, message the discord group. Don't be intimidated to how much more they know, but be happy because at least someone has an answer to this unruly problem. Ask them how they got there and write down what you need to know for next time. Rememebr there will ALWAYS be a next time, a next problem, and a next idea. You are not just doing this for you. There is a whole generation behind you that need the solution to the problem you are asking. **ASK** until you're blue in the face. 

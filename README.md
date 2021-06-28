@@ -1,3 +1,5 @@
-# PreWork
+# Growth Mindset Notes
 
-This is the pre work for students enrolling in our coding programs.
+These are my notes.
+I am taking a course
+I am excited about this!

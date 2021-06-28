@@ -12,6 +12,7 @@ Markdown is described on [Github Guide](https://guides.github.com/features/maste
 Which creates a heading big heading in bold letters. It organizes it as a primary heading. You can also use ‘##’ for a smaller heading and ‘###’ for an even smaller one!
 
 2. **Links**
+
 Creating Links are super easy! just use this format :
 
 '[Sampletext]'(url)' 

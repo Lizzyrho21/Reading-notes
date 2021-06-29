@@ -1,7 +1,7 @@
-This is the [Link to my growthmindset notes](Reading-notes/Growthmindset.md)
+This is the [Link to my growthmindset notes](/Users/erhodess3/projects/Reading-notes/Growthmindset.md)
 
-This is [The Terminal Page](Reading-notes/Terminal.md)
+This is [The Terminal Page](/Users/erhodess3/projects/Reading-notes/Terminal.md)
 
-This is [The HTML Page](Reading-notes/HTML.md)
+This is [The HTML Page](/Users/erhodess3/projects/Reading-notes/HTML.md)
 
-This is the [Text-editor Page](Reading-notes/Text-editor.md)
+This is the [Text-editor Page](/Users/erhodess3/projects/Reading-notes/Text-editor.md)

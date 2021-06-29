@@ -6,7 +6,7 @@ Here is what you will need to create your first HTML page:
 **1. Wireframe 📃**
 - Start with a simple website design. 
 - sketch > code (Creating a simple sketch that will be your template for coding a website!)
-**NOTE**: make sure your wireframe *clear* and *organized* before you start your website. That way you won't be lost and run a tangent on what you are trying to achieve. ✊
+**NOTE**: make sure your wireframes are *clear* and *organized* before you start your website. That way you won't be lost and run a tangent on what you are trying to achieve. ✊
 
 **2. HTML 💻**
 -HTML (Hypertext Markup Language) is a coding laanguage that is the structure of your website. It serves as the foundation for all of your text. (lists, paprgraphs, headings and etc.)

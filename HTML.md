@@ -1,4 +1,4 @@
-# HTML-notes
+# HTML
 
 If you are looking for more information becease you are confused about how to make HTML pages, look no further!
 

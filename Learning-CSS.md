@@ -5,7 +5,7 @@
 
 2. What is the Syntax?
 -CSS syntax is  *alot* different than HTML. While HTML has tags that look like this ‘<content>’ Css has opening and closing brackets like this : ‘{content}’ . At the beginning, before the first bracket, there must be a ** selector ** that starts the syntax. 
-- A *Selector* is the HTML element we want to style. This could be a ‘h1’, ‘h2’, ‘nav’, etc. 
+- A **Selector** is the HTML element we want to style. This could be a ‘h1’, ‘h2’, ‘nav’, etc. 
 - A declarations is then put inside the curly brackets to create a style for the element. For example, if we had an h1 element and we wanted to make the color blue, this is what we would type:
 - h1{ color: red;}
 - ** NOTE: Make sure to add a semicolon after each declaration! This is what separates one declaration from another. If no semicolon is added, your code will not show up in the browser.. **

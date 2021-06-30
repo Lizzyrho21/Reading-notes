@@ -14,3 +14,5 @@ This is the [Text-editor Page](/Reading-notes/Text-editor)
 This is the [Learning Github page](/Reading-notes/Learning-git)
 
 This is the [Learning CSS page](/Reading-notes/Learning-CSS)
+
+This is the [learning Javascript page](/Reading-notes/Learning-Javascript)

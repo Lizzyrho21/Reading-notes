@@ -4,6 +4,7 @@ Heya! I'm Lizzy Rhodes Wiley. Thanks for taking a peek at my notes! 😄
 Here is my [Profile page](https://github.com/Lizzyrho21) if you wanna tune into my next big project! 
 
 # Code 102 Reading-notes
+*This is where you'll find all my notes for Code102!*
 
 - This is the [Link to my growthmindset notes](/Reading-notes/Growthmindset)
 
@@ -21,6 +22,8 @@ Here is my [Profile page](https://github.com/Lizzyrho21) if you wanna tune into 
 
 
 # Code 201 reading-notes
+*This is where you'll find all my notes for Code201!* 
+
 -
 -
 -

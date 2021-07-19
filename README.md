@@ -20,22 +20,3 @@ Here is my [Profile page](https://github.com/Lizzyrho21) if you wanna tune into 
 
 - This is the [learning Javascript page](/Reading-notes/Learning-Javascript)
 
-
-# Code 201 reading-notes
-*This is where you'll find all my notes for Code201!* 
-
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
